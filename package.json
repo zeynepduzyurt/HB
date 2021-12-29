@@ -1,0 +1,14 @@
+{
+  "name": "hbtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "hbtest": "node src/index.js"
+  },
+  "author": "Zeynep Düzyurt",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^13.0.1"
+  }
+}
