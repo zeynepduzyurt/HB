@@ -11,5 +11,7 @@ After clonning the repo run this command on main project directory.
 
 ## Run
 
+You need to replace with test user in the constant.js (email/pw)
+
     npm run hbtest
 
